@@ -5,28 +5,28 @@ null
 """
 hp = 20
 name = singleplayer
-pitch = 29.49
-position = (163.92,45.7,370.77)
+pitch = 30.49
+position = (191.7,28.33,-287.33)
 version = 1
-yaw = 283.68
+yaw = 288.08
 PlayerArgsEnd
 List main 32
 Width 0
 Item mesecons_torch:mesecon_torch_on
+Item mesecons_switch:mesecon_switch_off
+Item mesecons_microcontroller:microcontroller0000
+Item mesecons_delayer:delayer_off_1
+Item mesecons_insulated:insulated_off
+Item mesecons:wire_00000000_off
+Item default:stone
+Item mesecons_lightstone:lightstone_blue_off
+Item default:cobble
+Item mesecons_commandblock:commandblock_off
 Empty
+Item mesecons_fpga:fpga0000
+Item mesecons_luacontroller:luacontroller0000
 Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
+Item mesecons_powerplant:power_plant
 Empty
 Empty
 Empty
