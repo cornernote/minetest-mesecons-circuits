@@ -1,1 +1,1 @@
-singleplayer::interact,settime,teleport,fast,server,bring,basic_privs,password,ban,rollback,shout,fly,worldedit,privs,give
+singleplayer::interact,give,teleport,privs,basic_privs,bring,settime,password,ban,rollback,shout,fly,worldedit,fast,server:1489485997
